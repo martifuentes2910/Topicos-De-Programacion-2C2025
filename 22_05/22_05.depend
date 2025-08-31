@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1716402292 source:e:\topicos\clases\22_05\22_05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1716402368 source:c:\users\laboratorios\desktop\22_05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1719284473 source:c:\users\marti\onedrive\escritorio\topicos\22_05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
