@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1719839583 source:c:\users\user\downloads\topicos de progra\prueba\main.c
+	"prueba.h"
+
+1719839380 source:c:\users\user\downloads\topicos de progra\prueba\prueba.c
+	"prueba.h"
+
+1719509087 c:\users\user\downloads\topicos de progra\prueba\prueba.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

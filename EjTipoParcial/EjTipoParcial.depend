@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1718809107 source:c:\users\marti\onedrive\escritorio\topicos\ejtipoparcial\ejtipoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TipoParcial.h"
+
+1718768126 c:\users\marti\onedrive\escritorio\topicos\ejtipoparcial\ejtipoparcial\tipoparcial.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718807689 source:c:\users\marti\onedrive\escritorio\topicos\ejtipoparcial\ejtipoparcial\tipoparcial.c
+	"TipoParcial.h"
+

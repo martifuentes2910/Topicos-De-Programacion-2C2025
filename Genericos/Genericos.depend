@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1718216356 source:c:\users\marti\onedrive\escritorio\topicos\generico\genericos\genericos.c
+
+1716347379 source:c:\users\marti\onedrive\escritorio\topicos\generico\genericos\main.c
+	"Genericos.h"
+
+1718216350 c:\users\marti\onedrive\escritorio\topicos\generico\genericos\genericos.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+

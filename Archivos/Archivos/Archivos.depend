@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1719988604 source:c:\users\marti\onedrive\escritorio\topicos\archivos\archivos\main.c
+	"Archivos.h"
+
+1719988453 c:\users\marti\onedrive\escritorio\topicos\archivos\archivos\archivos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<inttypes.h>
+
+1719988306 source:c:\users\marti\onedrive\escritorio\topicos\archivos\archivos\archivos.c
+	"Archivos.h"
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1712097034 source:c:\users\marti\onedrive\escritorio\topicos\matematicas\main.c
+	"Matematicas.h"
+
+1711571969 c:\users\marti\onedrive\escritorio\topicos\matematicas\matematicas.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1711572115 source:c:\users\marti\onedrive\escritorio\topicos\matematicas\matematicas.c
+	"Matematicas.h"
+
+1755632320 source:c:\users\marti\downloads\topicos\matematicas\matematicas.c
+	"Matematicas.h"
+
+1755632358 c:\users\marti\downloads\topicos\matematicas\matematicas.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1755632347 source:c:\users\marti\downloads\topicos\matematicas\main.c
+	"Matematicas.h"
+

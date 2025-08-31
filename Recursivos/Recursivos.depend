@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1718221388 source:c:\users\marti\onedrive\escritorio\topicos\recursivos\recursivos\recursivos.c
+	"Recursivos.h"
+
+1718221609 source:c:\users\marti\onedrive\escritorio\topicos\recursivos\recursivos\main.c
+	"Recursivos.h"
+
+1718221360 c:\users\marti\onedrive\escritorio\topicos\recursivos\recursivos\recursivos.h
+	<stdio.h>
+	<stdlib.h>
+

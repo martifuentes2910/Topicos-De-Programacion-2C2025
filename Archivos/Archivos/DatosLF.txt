@@ -1,0 +1,5 @@
+44444444Persona Cuatro                     A01042004 44000.40
+22222222Persona Dos                        B01022002 22000.20
+33333333Persona Tres                       B01032003 33000.30
+55555555Persona Cinco                      A01052005 55000.50
+11111111Persona Uno                        C01012001111000.10

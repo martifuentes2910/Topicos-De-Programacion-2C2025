@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1719197352 source:c:\users\santi\downloads\tp-v2-c04-3600-1c2024\tp-v2-c04-3600-1c2024\tp\main.c
+	"TP.h"
+
+1719195981 c:\users\santi\downloads\tp-v2-c04-3600-1c2024\tp-v2-c04-3600-1c2024\tp\tp.h
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<time.h>
+
+1719198556 source:c:\users\santi\downloads\tp-v2-c04-3600-1c2024\tp-v2-c04-3600-1c2024\tp\tp.c
+	"TP.h"
+
+1719375451 source:c:\users\marti\onedrive\escritorio\topicos\tp-codi-act\tp.c
+	"TP.h"
+
+1719375470 c:\users\marti\onedrive\escritorio\topicos\tp-codi-act\tp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<inttypes.h>
+	<time.h>
+
+1719375486 source:c:\users\marti\onedrive\escritorio\topicos\tp-codi-act\main.c
+	"TP.h"
+

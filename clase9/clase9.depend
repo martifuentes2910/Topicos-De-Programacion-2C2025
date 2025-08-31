@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1716410397 source:c:\users\laboratorios\desktop\clase9\clase9.c
+	"clase9.h"
+
+1716410416 c:\users\laboratorios\desktop\clase9\clase9.h
+	<stdio.h>
+	<stdlib.h>
+
+1716410281 source:c:\users\laboratorios\desktop\clase9\main.c
+	"clase9.h"
+
+1717304275 source:c:\users\marti\onedrive\escritorio\topicos\clase9\main.c
+	"clase9.h"
+
+1717304051 c:\users\marti\onedrive\escritorio\topicos\clase9\clase9.h
+	<stdio.h>
+	<stdlib.h>
+
+1717304043 source:c:\users\marti\onedrive\escritorio\topicos\clase9\clase9.c
+	"clase9.h"
+

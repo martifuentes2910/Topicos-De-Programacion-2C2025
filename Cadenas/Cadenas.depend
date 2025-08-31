@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1714952005 source:c:\users\marti\onedrive\escritorio\topicos\cadenas\cadenas\cadenas.c
+	"Cadenas.h"
+
+1714951766 source:c:\users\marti\onedrive\escritorio\topicos\cadenas\cadenas\main.c
+	"Cadenas.h"
+
+1713554269 c:\users\marti\onedrive\escritorio\topicos\cadenas\cadenas\cadenas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1717295132 source:c:\users\marti\onedrive\escritorio\topicos\cadenas\cadenas.c
+	"Cadenas.h"
+
+1718761400 c:\users\marti\onedrive\escritorio\topicos\cadenas\cadenas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1717292172 source:c:\users\marti\onedrive\escritorio\topicos\cadenas\main.c
+	"Cadenas.h"
+
